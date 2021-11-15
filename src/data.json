@@ -1,0 +1,46 @@
+{
+    "products": [
+        {"id" : "dress1",
+         "title" : "Roadster Printed Men Round Neck Dark Blue T-Shirt",
+         "description": "Printed Men Round Neck Dark Blue T-ShirtPrinted Men Round Neck Dark Blue T-ShirtPrinted Men Round Neck Dark Blue T-Shirt",
+         "image": "/images/dress1.jpeg",
+         "availableSizes": [ "XS", "S", "XL","XXL"],
+         "price": 23.9
+        },
+        {"id" : "dress2",
+            "title" : "Roadster Solid Men Polo Neck Black T-Shirt",
+            "description": "Solid Men Polo Neck Black T-ShirtSolid Men Polo Neck Black T-ShirtSolid Men Polo Neck Black T-Shirt",
+            "image": "/images/dress2.jpeg",
+            "availableSizes": ["M", "XL","XXL"],
+            "price": 13.5
+           },
+        {"id" : "dress3",
+        "title" : "Roadster Printed Men Round Neck Dark Blue T-Shirt",
+        "description": "Printed Men Round Neck Dark Blue T-ShirtPrinted Men Round Neck Dark Blue T-ShirtPrinted Men Round Neck Dark Blue T-Shirt",
+        "image": "/images/dress3.jpeg",
+        "availableSizes": ["XS", "L", "XL","XXL"],
+        "price": 10.5
+        },
+        {"id" : "dress4",
+            "title" : "Seven Rocks Striped Men Polo Neck White T-Shirt",
+            "description": "Striped Men Polo Neck White T-ShirtStriped Men Polo Neck White T-ShirtStriped Men Polo Neck White T-Shirt",
+            "image": "/images/dress4.jpeg",
+            "availableSizes": [ "XS", "S", "XL","XXL"],
+            "price": 29.1
+           },
+           {"id" : "dress5",
+               "title" : "Eyebogler Striped Men Polo Neck Blue, White T-Shirt",
+               "description": "Striped Men Polo Neck Blue, White T-ShirtStriped Men Polo Neck Blue, White T-ShirtStriped Men Polo Neck Blue, White T-Shirt",
+               "image": "/images/dress5.jpeg",
+               "availableSizes": ["M", "XL","XXL"],
+               "price": 33.5
+              },
+           {"id" : "dress6",
+           "title" : "Eyebogler Striped Men Polo Neck White, Maroon T-Shirt",
+           "description": "Striped Men Polo Neck White, Maroon T-ShirtStriped Men Polo Neck White, Maroon T-ShirtStriped Men Polo Neck White, Maroon T-Shirt",
+           "image": "/images/dress6.jpeg",
+           "availableSizes": ["XS", "L", "XL","XXL"],
+           "price": 26.5
+           }
+    ]
+}
